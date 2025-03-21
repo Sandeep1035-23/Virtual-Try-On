@@ -20,7 +20,7 @@ Prerequisites
 Python 3.x
 Flask (pip install flask)
 Any additional dependencies as required by the AI model
-📂 fashion-ai
+## 📂 fashion-ai
 
 │── app.py # Flask backend
 │── templates/
